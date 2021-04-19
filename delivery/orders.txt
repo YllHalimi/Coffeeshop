@@ -1,0 +1,8 @@
+Thu, 31 May 2018 17:34:39	12 expresso 	2 latte 	1 tea 	$1 224.00	Prishtine 123
+Thu, 31 May 2018 17:34:46	12 expresso 	2 latte 	1 tea 	$1 224.00	Prishtine 123
+Thu, 31 May 2018 17:35:34	12 expresso 	2 latte 	1 tea 	$76.00	Prishtine 123
+Thu, 31 May 2018 17:36:00	12 expresso 	1 latte 	4 tea 	$82.00	Pejton, nr12
+Sat, 02 Jun 2018 18:24:05	12 expresso 	3 latte 	4 tea 	$94.00	Prishtine 123
+Sat, 02 Jun 2018 18:24:29	12 expresso 	3 latte 	4 tea 	$94.00	Prishtine 123
+Sat, 02 Jun 2018 18:25:02	12 expresso 	3 latte 	4 tea 	$94.00	Prishtine 123
+Mon, 04 Jun 2018 13:00:09	1 expresso 	2 latte 	3 tea 	$29.00	lagjia Pejton nr 14
